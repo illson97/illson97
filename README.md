@@ -5,7 +5,7 @@
 <p align="center">
    <Strong>:house:Study in:house:</Strong><br><Strong>멀티캠퍼스 파이썬 풀스택 과정</Strong><br> </p>
 
-<p align="center">데이터 베이스 관리자가 되고 싶습니다!<br>현재 JAVA, SPRING 을 공부중입니다!
+<p align="center">서버 관리자를 지망하고 있습니다!<br>현재 JAVA, SPRING 을 공부중입니다!
 
 <br><br>
 </p>
