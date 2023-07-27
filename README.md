@@ -44,7 +44,9 @@
 
 
 <br>
-
+<a href="https://github.com/illson97">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=illson97&layout=compact&show_icons=false&show_owner=illson97&hide_title=false&theme=vue&hide=false" />
+  </a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baeksuu&langs_count=8)](https://github.com/Baeksuu/github-readme-stats)
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=illson97&show_icons=true">
