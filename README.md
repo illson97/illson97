@@ -25,7 +25,7 @@
 
 <br>
 
-
+<div align="center">
 <a href="https://github.com/illson97">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=illson97&layout=compact&show_icons=false&show_owner=illson97&hide_title=false&theme=vue&hide=false" />
   </a>
@@ -33,5 +33,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=illson97&show_icons=true">
 
 <br>
-
+</div>
 
