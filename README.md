@@ -25,18 +25,36 @@
 
 
 <br>
-
-	<details>
-		<summary>
-			<h2>Project History</h2>
-		</summary>
-		<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" /><h3><a href="https://github.com/illson97/1st_teampjt-pjt-mango">망고플레이트 클론코딩</a></h3>
-		<hr>
-		<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" /><h3><a href="https://github.com/illson97/2nd_teampjt-resque9">편의점 음식 및 레시피 정보 플랫폼</a></h3>
-		<hr>
-		<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" /><h3><a href="https://github.com/illson97/3rd_teampjt-mureokmureok">식물 종합 정보 플랫폼 및 식물 관리 웹 어플리케이션</a></h3>
-		<hr>
-		<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" /><h3><a href="https://github.com/illson97/100SOO">100SOO 게시판 서비스</a></h3>
-		<hr>
-		<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" /><h3><a href="https://github.com/illson97/project-admin-100SOO">100SOO 게시판 어드민 서비스</a></h3>
-	</details>
+<div align="center">
+    <details>
+        <summary>
+            <h2>Project History</h2>
+        </summary>
+        <ul style="list-style-type:none; padding: 0;">
+            <li style="list-style-type: none;">
+                <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
+                <h3><a href="https://github.com/illson97/1st_teampjt-pjt-mango">망고플레이트 클론코딩</a></h3>
+            </li>
+            <hr>
+            <li style="list-style-type: none;">
+                <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
+                <h3><a href="https://github.com/illson97/2nd_teampjt-resque9">편의점 음식 및 레시피 정보 플랫폼</a></h3>
+	    </li style="list-style-type: none;">
+            <hr>
+            <li style="list-style-type: none;">
+                <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
+                <h3><a href="https://github.com/illson97/3rd_teampjt-mureokmureok">식물 종합 정보 플랫폼 및 식물 관리 웹 어플리케이션</a></h3>
+	    </li style="list-style-type: none;">
+            <hr>
+            <li>
+                <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+                <h3><a href="https://github.com/illson97/100SOO">100SOO 게시판 서비스</a></h3>
+	    </li style="list-style-type: none;">
+            <hr>
+            <li style="list-style-type: none;">
+                <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+                <h3><a href="https://github.com/illson97/project-admin-100SOO">100SOO 게시판 어드민 서비스</a></h3>
+            </li>
+        </ul>
+    </details>
+</div>
