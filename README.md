@@ -28,7 +28,7 @@
 	<summary>
 		<h2>Project History</h2>
 	</summary>
-	<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" /><a href="https://github.com/illson97/1st_teampjt-pjt-mango"><h3>망고플레이트 클론코딩</h3></a>
+	<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" /><h3><a href="https://github.com/illson97/1st_teampjt-pjt-mango">망고플레이트 클론코딩</a></h3>
 	<br>
 	<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" /><a href="https://github.com/illson97/2nd_teampjt-resque9"><h3>편의점 음식 및 레시피 정보 플랫폼</h3></a>
 	<br>
