@@ -25,7 +25,7 @@
 
 
 <br>
-<div align="center">
+
 	<details>
 		<summary>
 			<h2>Project History</h2>
@@ -40,4 +40,3 @@
 		<hr>
 		<h3><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" /><a href="https://github.com/illson97/project-admin-100SOO">100SOO 게시판 어드민 서비스</a></h3>
 	</details>
-</div>
